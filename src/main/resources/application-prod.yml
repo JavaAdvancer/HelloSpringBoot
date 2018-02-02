@@ -1,0 +1,10 @@
+server:
+  port: 2222
+  context-path: /Boot
+
+user:
+  name: wjm
+  age: 23
+
+
+
